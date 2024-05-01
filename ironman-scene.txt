@@ -2,3 +2,4 @@ ironman scene
 - create generator
 - held captive while traveling
 - develop jarvis
+- breaking free from prison
